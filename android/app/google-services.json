@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "342087270109",
+    "project_id": "signindemo-71fbb",
+    "storage_bucket": "signindemo-71fbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342087270109:android:bfd4cc90515bd1b50de534",
+        "android_client_info": {
+          "package_name": "com.morshed.signindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342087270109-8up03vlqdebnpjh72n274doilo1qku76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.morshed.signindemo",
+            "certificate_hash": "dbf5b8db114a3ee7e58e2d61acbe9227ad13b639"
+          }
+        },
+        {
+          "client_id": "342087270109-olnpcdbkfdhe6k8kpfirdmgcb4blv6cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLgziCOZtSR3g4EMOLc9D95LmMVYnr4pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342087270109-olnpcdbkfdhe6k8kpfirdmgcb4blv6cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
